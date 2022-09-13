@@ -442,7 +442,7 @@ responsible for General Data Protection Regulation in the UK. It can be found he
 
 5 **Brills for Institution** (e.g. Sixth Form College)  and **Library Users** (e.g. within free local Public 
   	Library digital resources) may earn brills but these cannot be exchanged for cash or any other 
-  	prize, although an Institution or Library User 
+  	prize. 
 
 6 **Complaints and Decisions**. Anyone can make a mistake and we are always receptive to an 
   	inquiry from a player who believes their scores are wrong. We are committed to conducting all 
